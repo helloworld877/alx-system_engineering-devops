@@ -1,2 +1,2 @@
 #!/bin/bash
-set -o posix; set | sort
+set -o posix | sort
