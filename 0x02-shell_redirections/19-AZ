@@ -1,2 +1,2 @@
 #!/bin/bash
-tr '[Ac]' 'ZzEe'
+tr Ac Ze
